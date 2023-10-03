@@ -1,4 +1,4 @@
-Auto-Centering Robot Powered by Deep Learning: A Raspberry Pi and Arduino Endeavor
+#Auto-Centering Robot Powered by Deep Learning: A Raspberry Pi and Arduino Endeavor
 Auto-Centering Robot
 
 Introduction
